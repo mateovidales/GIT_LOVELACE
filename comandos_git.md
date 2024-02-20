@@ -25,6 +25,10 @@ para salir del edit ctrl + O y crtl + x y si es vim esc + :wq
 - git log
 - git log --oneline
 
+## Comando para cambiar de version
+- git checkout {nombre de la rama o id del commit}
+
+
 ## Pasos para crear una version de nuestro codigo
 1. agregar todos los archivos al commit
 
