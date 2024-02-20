@@ -17,10 +17,20 @@ para salir del edit ctrl + O y crtl + x y si es vim esc + :wq
 ## Como iniciar git en un directorio
 - git init
 
-## Pasos para crear una version de nuestro codigo
 
+## Comando para saber el estado de nuestros archivos
+-git  status
+
+## Comando para listar las versiones de mi proyecto
+- git log
+- git log --oneline
+
+## Pasos para crear una version de nuestro codigo
 1. agregar todos los archivos al commit
 
 - git add .
 - git add *.js
 - git add index.js
+
+2. Tomar foto del codigo (crear una nueva version)
+-git commit -m "nombre del commit" 
