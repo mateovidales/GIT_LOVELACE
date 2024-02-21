@@ -26,7 +26,7 @@ para salir del edit ctrl + O y crtl + x y si es vim esc + :wq
 - git log --oneline
 
 ## Comando para cambiar de version
-- git checkout {nombre de la rama o id del commit}
+- git checkout <nombre de la rama o id del commit>
 
 
 ## Pasos para crear una version de nuestro codigo
@@ -38,3 +38,5 @@ para salir del edit ctrl + O y crtl + x y si es vim esc + :wq
 
 2. Tomar foto del codigo (crear una nueva version)
 -git commit -m "nombre del commit" 
+
+
