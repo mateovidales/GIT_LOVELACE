@@ -16,4 +16,5 @@
 # Comando para cambiar nombre de una rama
 - git branch -M nuevo_nombre
 
-#
+# Comando para eliminar un archivo de git
+- git rm --cached nombre del archivo
